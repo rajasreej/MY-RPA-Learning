@@ -1483,9 +1483,9 @@
     "restore": {
       "projectUniqueName": "RoboticEnterpriseFrameworkdemo",
       "projectName": "RoboticEnterpriseFrameworkdemo",
-      "projectPath": "C:\\Users\\hp\\Documents\\UiPath\\RoboticEnterpriseFrameworkdemo\\.local",
+      "projectPath": "E:\\My Learning\\MY-RPA-Learning\\UiPath\\RoboticEnterpriseFrameworkdemo\\.local",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\UiPath\\RoboticEnterpriseFrameworkdemo\\.local"
+      "outputPath": "E:\\My Learning\\MY-RPA-Learning\\UiPath\\RoboticEnterpriseFrameworkdemo\\.local"
     },
     "frameworks": {
       "net461": {
